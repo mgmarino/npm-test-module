@@ -1,5 +1,5 @@
 {
-  "name": "test-module",
+  "name": "npm-test-module",
   "version": "1.0.0",
   "description": "",
   "main": "lib/generated.js",
