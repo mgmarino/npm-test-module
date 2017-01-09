@@ -1,0 +1,19 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/generated.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node scripts/build > lib/generated.js"
+  },
+  "keywords": [],
+  "author": "mgmarino",
+  "file": [
+    "lib"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
